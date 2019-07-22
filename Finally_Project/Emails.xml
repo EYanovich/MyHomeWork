@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Refs>
+	<Emails>
+		<Email id = '1'>
+			<Userid>1</Userid>
+			<Sendto>test_at2019@mail.ru</Sendto>
+			<Theme>Theme Text</Theme>
+			<Text>Text mail</Text>
+		</Email>
+		<Email id = '1'>
+			<Userid>1</Userid>
+			<Sendto>test2</Sendto>
+			<Theme>Theme Text</Theme>
+			<Text>Text mail</Text>
+		</Email>
+	</Emails>
+</Refs>
